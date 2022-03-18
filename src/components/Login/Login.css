@@ -1,0 +1,10 @@
+.formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+      
+}
+
+.from {
+    height: 100vh  
+}
